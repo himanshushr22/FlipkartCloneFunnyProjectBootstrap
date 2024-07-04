@@ -1,0 +1,18 @@
+/* .navbar-dark  .navbar-nav .nav-link{
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+} */
+.navbar-expand-lg .navbar-nav .nav-link {
+    
+    font-weight: 400;
+    color: white;
+    font-size: 17px;
+}
+.w-100 {
+    /* width: 100% !important; */
+    height: 450px;
+}
+.row{
+    background-color: rgb(255, 255, 255);
+}
